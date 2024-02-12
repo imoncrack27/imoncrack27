@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+(https://github-readme-stats.vercel.app/api?username=imoncrack27&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+(https://streak-stats.demolab.com?user=imoncrack27&theme=chartreuse-dark&date_format=n%2Fj%5B%2FY%5D&count_private=true&include_all_commits=true)](https://git.io/streak-stats)
+
+"https://github-readme-stats.vercel.app/api/top-langs/?username=imoncrack27&layout=compact&title_color=00ff00&text_color=00ff00&langs_count=20&bg_color=000&count_private=true&include_all_commits=true"/>
