@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Drexell John Joseph O. Mingo</h1>
-<h3 align="center">An aspiring frontend developer from the Philippines</h3>
+<h3 align="center">An aspiring Full Stack developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imoncrack27&label=Profile%20views&color=0e75b6&style=flat" alt="imoncrack27" /> </p>
 
 - 🔭 I’m currently working on **Current Projects at hand**
 
-- 🌱 I’m currently learning **Php, JavaScript**
+- 🌱 I’m currently learning **Php, JavaScript, Python**
 
 - 🤝 I’m looking for help with **Full Stack**
 
-- 📫 How to reach me **mingodrexell321@gmail.com**
+- 📫 How to reach me **mingo.drexell@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
