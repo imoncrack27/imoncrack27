@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Current Projects at hand**
 
-- 🌱 I’m currently learning **Php, JavaScript, Python**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 🤝 I’m looking for help with **Full Stack**
 
