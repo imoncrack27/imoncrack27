@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imoncrack27" alt="imoncrack27" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kamado tanjiro" target="blank"><img src="https://img.shields.io/twitter/follow/kamado tanjiro?logo=twitter&style=for-the-badge" alt="kamado tanjiro" /></a> </p>
-
 - 🔭 I’m currently working on **Current Projects at hand**
 
 - 🌱 I’m currently learning **MERN, Mobile development**
@@ -21,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://x.com/DeejayO_c)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamado tanjiro" height="30" width="40" /></a>
-<a href="(https://www.linkedin.com/in/drexell-mingo-4356442b5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drexell mingo" height="30" width="40" /></a>
-<a href="(https://www.facebook.com/Drexell.John27/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="drexell john.dev" height="30" width="40" /></a>
-<a href="(https://www.instagram.com/deejay.o_c/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deejay.o_c" height="30" width="40" /></a>
+<a href="https://x.com/DeejayO_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamado tanjiro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/drexell-mingo-4356442b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drexell mingo" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Drexell.John27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="drexell john.dev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/deejay.o_c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deejay.o_c" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
