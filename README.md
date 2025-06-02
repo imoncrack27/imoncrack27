@@ -71,3 +71,7 @@ Drexell John Joseph Ortega Mingo</a></h1>
 ### 🔝 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=imoncrack27&show_icons=true&theme=dark)
 
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imoncrack27&layout=compact&theme=dark)
+
+
