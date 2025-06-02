@@ -14,7 +14,7 @@ Drexell John Joseph Ortega Mingo</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imoncrack27&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="100rabhcsmc"> </p>
 
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pod2JiZGc2cTNlcnM2emk4c3ppYzlpMXV3andpeGI5aHliZTM5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 </a>
 <ul>
 <li>
