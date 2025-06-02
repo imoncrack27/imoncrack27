@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Jonric Manisan</a></h1>
+Drexell John Joseph Ortega Mingo</a></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
