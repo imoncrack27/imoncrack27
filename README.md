@@ -2,7 +2,7 @@
 Drexell John Joseph Ortega Mingo</a></h1>
 
 <p align="center">
-  https://readme-typing-svg.demolab.com/demo/?font=Bebas+Neue&weight=600&size=25&duration=4000&color=F72E29&background=8E47FF00&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;New+to+Coding;Loves+to+solve+problems;Self-taught+programmer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=600&size=25&duration=4000&pause=1000&color=F72E29&background=8E47FF00&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;New+to+Coding;Loves+to+solve+problems;Self-taught+programmer" alt="Typing SVG" /></a>
 </p>
 
 <h1 id="-tech-stack"># 💻 Tech Stack::</h1>
