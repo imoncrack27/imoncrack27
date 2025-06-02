@@ -44,13 +44,13 @@ Drexell John Joseph Ortega Mingo</a></h1>
 </h3>
 <p align="left">
  </p><div align="left" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jonric-manisan-33905a28a/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/drexell-mingo-4356442b5/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/imoncrack27">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/riiicz_m/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/deejay.o_c/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/riczy.08/" rel="noopener noreferrer">
+<a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/Drexell.John27/" rel="noopener noreferrer">
   <img src="https://img.icons8.com/doodle/40/000000/facebook-new.png" alt="Facebook Icon" />
 </a>
       </div>
