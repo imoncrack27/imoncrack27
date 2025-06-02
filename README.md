@@ -68,5 +68,6 @@ Drexell John Joseph Ortega Mingo</a></h1>
 ### ✍️ Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=truetype=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imoncrack27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=imoncrack27&show_icons=true&theme=dark)
+
