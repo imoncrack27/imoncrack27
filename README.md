@@ -1,11 +1,11 @@
   <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Drexell John Joseph Ortega Mingo</a></h1>
 
-<p align="center">
+[<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=69F707&size=25&center=true&vCenter=true&width=700&height=100&lines=A+passionate+UI%2FUX+Web+Designer;Self-taught+Front-End+Developer;Information+Technology+Student;Newbie+in+Coding;Active+Learner%2FMultitasker;Love+to+learn+new+things+%E2%99%A5" />
   </a>
-</p>
+</p>](https://readme-typing-svg.demolab.com/demo/?font=Bebas+Neue&weight=600&size=25&duration=4000&color=F72E29&background=8E47FF00&center=true&vCenter=true&lines=Aspiring+Full+Stack+Developer;New+to+Coding;Loves+to+solve+problems;Self-taught+programmer)
 
 <h1 id="-tech-stack"># 💻 Tech Stack::</h1>
 <p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/figma-FF6B6B.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
