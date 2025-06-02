@@ -23,16 +23,16 @@ Drexell John Joseph Ortega Mingo</a></h1>
 <p>🎓 I Graduated from La Salle University</a></p>
 </li>
 <li>
-<p>🌱 I’m currently Learning on Web Development(React-Vite)</p>
+<p>🌱 I’m currently Learning on Web Development(MERN Stack)</p>
 </li>
 <li>
 <p>🤝 I’m available for freelancing.</p>
 </li>
 <li>
-<p>📫 How to reach me <strong><a href="mailto:manisanjonric02@gmail.com">manisanjonric02@gmail.com</a></strong></p>
+<p>📫 How to reach me <strong><a href="mailto:manisanjonric02@gmail.com">mingo.drexell@gmail.com</a></strong></p>
 </li>
 <li>
-  <p>📄 See my Works! <a href="https://ricz-portfolio-website.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a></p>
+  <p>📄 See my Works! <a href="https://portfolio-mingyo.vercel.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a></p>
   <br>
 </li>
 <br>
