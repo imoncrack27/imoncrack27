@@ -18,8 +18,7 @@ Drexell John Joseph Ortega Mingo</a></h1>
 ### 🎨 Design & UI  
 <img src="https://img.shields.io/badge/Figma-FF6B6B.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+
 
 ### 🛠️ Tools & Frameworks  
 <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -30,9 +29,10 @@ Drexell John Joseph Ortega Mingo</a></h1>
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 
 ### ☁️ Hosting & Databases  
-<img src="https://img.shields.io/badge/Netlify-87CEEB.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7"/>
+
 <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
+
 
 </div>
 
@@ -81,7 +81,7 @@ Drexell John Joseph Ortega Mingo</a></h1>
       </div>
 <p></p>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
